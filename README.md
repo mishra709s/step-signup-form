@@ -13,4 +13,4 @@ After submitting, show a success screen and display the details of the user
 
 ## Wireframes
 
-<img src="src/assets/Step-Sign-Up-Form.png" alt="alt text" width="200"/>
+<img src="src/assets/Step-Sign-Up-Form.png" alt="alt text" />
