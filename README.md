@@ -6,10 +6,10 @@ Your PM has asked you to create the most annoying signup form in the world: a fo
 
 ## Requirements
 
-Back links appear on every screen other than the first one, going back to the step the user was just on
-Input is required on every screen prior to proceeding to the next.
-On the last screen, provide a submit button
-After submitting, show a success screen and display the details of the user
+- Back links appear on every screen other than the first one, going back to the step the user was just on
+- Input is required on every screen prior to proceeding to the next.
+- On the last screen, provide a submit button
+- After submitting, show a success screen and display the details of the user
 
 ## Wireframes
 
